@@ -10,6 +10,7 @@ Raspberry Pi and the mobile application part. Raspberry Pi part is responsible f
 from the relevant meters and processing values for the mobile application usage. Mobile
 application part related to the taking values from the Raspberry Pi system and gives the
 calculated bill to the end users. These are the two different processes, but they work for the
-same project that is called Kill Bill.
+same project that is called "Kill Bill".
 
-##For more information you can check our final representation BİTİRMESON.docx
+##For more information you can check our final representation "BİTİRMESON.docx"
+##Or you can have quick look at our poster "killbill.jpeg"
