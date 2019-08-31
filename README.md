@@ -13,4 +13,5 @@ calculated bill to the end users. These are the two different processes, but the
 same project that is called "Kill Bill".
 
 ##For more information you can check our final representation "BİTİRMESON.docx"
+
 ##Or you can have quick look at our poster "killbill.jpeg"
