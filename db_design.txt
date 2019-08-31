@@ -1,0 +1,13 @@
+CREATE TABLE  `killbill`.`water_meter`(
+   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+   device_id VARCHAR(255) NOT NULL unique,
+   device_pin VARCHAR(255) not null,
+   last_value VARCHAR(255) not null,
+   is_trigger VARCHAR(255) not null
+)
+
+INSERT INTO water_meter (device_id, device_pin, last_value, is_trigger)
+VALUES ('mydeviceid', '1234', '2160', 'False')
+
+
+# https://www.dofactory.com/sql/insert
