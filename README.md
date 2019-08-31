@@ -1,4 +1,4 @@
-# killbill
+# Feng 497-498 - Kill Bill - Graduation Project
 
 Kill Bill has an objective of people can access to the water and electricity meters’
 information at any certain time and it helps people learn their bill cost. This system supports
